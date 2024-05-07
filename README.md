@@ -12,7 +12,7 @@ Para executar este projeto, siga as instruções abaixo:
 
 ### Código Frontend
 Clone o repositório para o seu computador:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ReblablA/DTIII
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
@@ -28,7 +28,7 @@ Aqui está a imagem que mostra o resultado final do meu projeto frontend:!AAAAAA
 ### Código BackEnd
 
 Clone o repositório para o seu computador (caso ainda não tenha feito):
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ReblablA/DTIII
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
