@@ -23,7 +23,10 @@ npm install
 Inicie o servidor de desenvolvimento para visualizar a aplicação localmente:
 npm start
 
-Aqui está a imagem que mostra o resultado final do meu projeto frontend:!AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Aqui está a imagem que mostra o resultado final do meu projeto frontend:
+![Captura de tela 2024-05-07 191805](https://github.com/ReblablA/dti-rebecca/assets/111395018/893845ed-58d1-44a7-9d74-9a34b6e09c4e)
+
+
 
 ### Código BackEnd
 
