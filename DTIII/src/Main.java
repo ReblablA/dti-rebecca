@@ -11,6 +11,12 @@ public class Main{
         Petshop vaiRex = new Petshop("Vai Rex", 1.7, 15.0, 50.0, 20.0, 55.0);
         Petshop chowChawgas = new Petshop("ChowChawgas", 0.8, 30.0, 45.0, 30.0, 45.0);
 
+
+          List<Petshop> petshops = new ArrayList<>();
+            petshops.add(meuCaninoFeliz);
+            petshops.add(vaiRex);
+            petshops.add(chowChawgas);
+
         try (Scanner scanner = new Scanner(System.in)) {
             
             System.out.println("Digite a data (no formato DD/MM/AAAA):");
@@ -29,12 +35,6 @@ public class Main{
 
           
             scanner.nextLine();
-
-           
-            List<Petshop> petshops = new ArrayList<>();
-            petshops.add(meuCaninoFeliz);
-            petshops.add(vaiRex);
-            petshops.add(chowChawgas);
 
 
            
