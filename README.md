@@ -12,7 +12,7 @@ Para executar este projeto, siga as instruções abaixo:
 
 ### Código Frontend
 Clone o repositório para o seu computador:
-git clone https://github.com/ReblablA/DTIII
+[git clone https://github.com/ReblablA/DTIII](https://github.com/ReblablA/dti-rebecca.git)
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
@@ -31,7 +31,7 @@ Aqui está a imagem que mostra o resultado final do meu projeto frontend:
 ### Código BackEnd
 
 Clone o repositório para o seu computador (caso ainda não tenha feito):
-git clone https://github.com/ReblablA/DTIII
+[git clone https://github.com/ReblablA/DTIII](https://github.com/ReblablA/dti-rebecca.git)
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
