@@ -11,8 +11,7 @@ Este projeto consiste em uma aplicação web que ajuda o Senhor Eduardo, proprie
 Para executar este projeto, siga as instruções abaixo:
 
 ### Código Frontend
-Clone o repositório para o seu computador:
-[git clone https://github.com/ReblablA/DTIII](https://github.com/ReblablA/dti-rebecca.git)
+Clone o repositório para o seu computador.
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
@@ -24,14 +23,13 @@ Inicie o servidor de desenvolvimento para visualizar a aplicação localmente:
 npm start
 
 Aqui está a imagem que mostra o resultado final do meu projeto frontend:
-![Captura de tela 2024-05-07 191805](https://github.com/ReblablA/dti-rebecca/assets/111395018/893845ed-58d1-44a7-9d74-9a34b6e09c4e)
+![Captura de tela 2024-05-07 191805]
 
 
 
 ### Código BackEnd
 
-Clone o repositório para o seu computador (caso ainda não tenha feito):
-[git clone https://github.com/ReblablA/DTIII](https://github.com/ReblablA/dti-rebecca.git)
+Clone o repositório para o seu computador (caso ainda não tenha feito).
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
@@ -60,8 +58,8 @@ Organização do código em pastas separadas para facilitar a manutenção e o d
 
 Finalmente, quando terminei o código para compilação, comecei a escrever os testes unitários. Decidi não realizar testes extensivos porque calcular os valores esperados manualmente consumiria muito tempo. Para executar o arquivo de teste CalculadoraPrecoBanhoTest.java, foi necessário configurar o ambiente para testes unitários em Java. Instalei a biblioteca JUnit para realizar os testes e adicionei o comando "test" ao arquivo de configuração do Maven (pom.xml).
 
-![Captura de tela 2024-05-07 190939](https://github.com/ReblablA/dti-rebecca/assets/111395018/475fe9f3-52dc-4878-bae7-58e29722c806)
+![Captura de tela 2024-05-07 190939]
 
 
 
-Aproveite o uso do sistema e garanta que os cãezinhos do Senhor Eduardo estejam sempre felizes e cheirosos! 🐕✨
+Aproveite o uso do sistema e garanta que os cãezinhos do Senhor Eduardo estejam sempre felizes e cheirosos!
