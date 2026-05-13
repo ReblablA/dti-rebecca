@@ -1,4 +1,4 @@
-# dti-rebecca - projeto Petshop
+# projeto Petshop
 
 Este projeto consiste em uma aplicação web que ajuda o Senhor Eduardo, proprietário de um canil em Belo Horizonte, a encontrar o melhor petshop para banhar seus cães, levando em consideração os preços e a proximidade dos estabelecimentos.
 
