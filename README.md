@@ -22,9 +22,6 @@ npm install
 Inicie o servidor de desenvolvimento para visualizar a aplicação localmente:
 npm start
 
-Aqui está a imagem que mostra o resultado final do meu projeto frontend:
-![Captura de tela 2024-05-07 191805]
-
 
 
 ### Código BackEnd
@@ -57,8 +54,6 @@ Organização do código em pastas separadas para facilitar a manutenção e o d
 ## Testes Unitários
 
 Finalmente, quando terminei o código para compilação, comecei a escrever os testes unitários. Decidi não realizar testes extensivos porque calcular os valores esperados manualmente consumiria muito tempo. Para executar o arquivo de teste CalculadoraPrecoBanhoTest.java, foi necessário configurar o ambiente para testes unitários em Java. Instalei a biblioteca JUnit para realizar os testes e adicionei o comando "test" ao arquivo de configuração do Maven (pom.xml).
-
-![Captura de tela 2024-05-07 190939]
 
 
 
